@@ -1,0 +1,32 @@
+D:\C# Sharp\EditFile\EditFile\bin\Debug\EditFile.exe.config
+D:\C# Sharp\EditFile\EditFile\bin\Debug\EditFile.exe
+D:\C# Sharp\EditFile\EditFile\bin\Debug\EditFile.pdb
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.Form1.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.Properties.Resources.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.csproj.GenerateResource.cache
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.csproj.CoreCompileInputs.cache
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.exe
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.pdb
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl1.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl2.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl3.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl4.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl5.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.UserControl6.resources
+D:\C# Sharp\EditFile\EditFile\obj\Debug\EditFile.csprojAssemblyReference.cache
+D:\C# Sharp\EditFile EN\EditFile\EditFile\bin\Debug\EditFile.exe.config
+D:\C# Sharp\EditFile EN\EditFile\EditFile\bin\Debug\EditFile.exe
+D:\C# Sharp\EditFile EN\EditFile\EditFile\bin\Debug\EditFile.pdb
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.csprojAssemblyReference.cache
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.Form1.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.Properties.Resources.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl1.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl2.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl3.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl4.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl5.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.UserControl6.resources
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.csproj.GenerateResource.cache
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.csproj.CoreCompileInputs.cache
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.exe
+D:\C# Sharp\EditFile EN\EditFile\EditFile\obj\Debug\EditFile.pdb
